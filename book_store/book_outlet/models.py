@@ -12,3 +12,4 @@ class Book(models.Model):
     # Indent the __str__ method to be part of the class
     def __str__(self):
         return f"{self.title} ({self.rating})"
+kkkk
